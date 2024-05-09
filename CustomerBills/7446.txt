@@ -1,0 +1,16 @@
+	Welcome Amrit Retail
+
+ Bill Number : 7446
+ Customer Name : sanisha chaudhary
+ Phone Number : 7458475847
+......................................
+ Products		QTY		Price
+......................................
+ Barahsin Beer		2		600
+ White Rum		5		10550
+--------------------------------------
+ Beer Tax			Rs. 216.0
+ Rum Tax			Rs. 3798.0
+--------------------------------------
+ Your Total Bill is :		Rs. 15164.0
+--------------------------------------

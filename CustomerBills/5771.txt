@@ -1,0 +1,14 @@
+	Welcome Amrit Retail
+
+ Bill Number : 5771
+ Customer Name : devraj
+ Phone Number : 76765765
+......................................
+ Products		QTY		Price
+......................................
+ Barahsin Beer		2		600
+--------------------------------------
+ Beer Tax			Rs. 216.0
+--------------------------------------
+ Your Total Bill is :		Rs. 816.0
+--------------------------------------
